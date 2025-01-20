@@ -1,0 +1,6 @@
+@ChainOfResponsibility.Api_HostAddress = http://localhost:5189
+
+GET {{ChainOfResponsibility.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

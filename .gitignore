@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ChainOfResponsibility/.vs/ChainOfResponsibility/CopilotIndices/17.12.53.23981
+/ChainOfResponsibility/.vs/ChainOfResponsibility/FileContentIndex
+/ChainOfResponsibility/.vs/ChainOfResponsibility/v17
+/ChainOfResponsibility/ChainOfResponsibility.Api/obj
+/.vs
